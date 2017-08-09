@@ -1,6 +1,5 @@
 # BSD-MVCP
-#### Mass Virtual Hosting Control Panel for FreeBSD with latest 
-technology
+#### Mass Virtual Hosting Control Panel for FreeBSD with latest technology
 
 * Based on Fastest Operating System: FreeBSD
 * Full Open-Source
